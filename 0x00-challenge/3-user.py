@@ -13,8 +13,6 @@ class User():
     - password: private string hash in MD5
     """
 
-    #__password = None
-
     def __init__(self):
         """
         Initialize a new user:
